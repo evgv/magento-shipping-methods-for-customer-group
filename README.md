@@ -2,7 +2,7 @@
 
 ### Features
 
-Added to `flatrate`, `freeshipping` and `tablerate` additional settings for `allow`/`disallow` shipping methods for customer groups.   
+ - Added to `flatrate`, `freeshipping` and `tablerate` additional settings for `allow`/`disallow` shipping methods for customer groups.   
    
    
 ### Rewrites
